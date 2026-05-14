@@ -7,11 +7,11 @@ A from-scratch implementation of a **Variational Autoencoder (VAE)** and a **Lat
 ## Results
 
 ### Best Generated Image (Confidence: 0.93)
-![Best generated hot-dog](best_hotdog.png)
+![Best generated hot-dog](besthotdog.png)
 
 
 ### Sample Grid from DDPM
-![Generated image grid](generated_grid.png)
+![Generated image grid](hotdog_grid.png)
 
 ---
 
